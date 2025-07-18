@@ -1,0 +1,31 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore build or deploy artifacts
+/dist
+/node_modules
+/.cache
+/.next
+out/
+
+# Ignore IDE/editor-specific files
+.vscode/
+.idea/
+*.log
+
+# OS generated files
+ehthumbs.db
+Desktop.ini
+
+# MacOS
+.AppleDouble
+.LSOverride
+Icon
+
+# npm debug files
+npm-debug.log*
+
+# Environment files (if any)
+.env
+.env.local
