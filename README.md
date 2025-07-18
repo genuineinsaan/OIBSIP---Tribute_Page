@@ -12,7 +12,7 @@ This is a tribute website dedicated to **Dr. A.P.J. Abdul Kalam**, created as **
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the live site](https://yourusername.github.io/tribute-page/)
+🔗 [Click here to view the live site](https://genuineinsaan.github.io/OIBSIP---Tribute_Page/)
 
 ---
 
